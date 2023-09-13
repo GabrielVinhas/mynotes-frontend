@@ -1,5 +1,5 @@
 import axios from 'axios'
 
 export const api = axios.create({
-  baseURL: 'https://gabrielmynotes-api.herokuapp.com'
+  baseURL: 'https://mynotes-api-gqbh.onrender.com/'
 })
